@@ -1,0 +1,3 @@
+﻿  5Diagonal.cpp
+c:\users\viktor.golubev\source\repos\5diagonal\5diagonal\matr.h(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  5Diagonal.vcxproj -> C:\Users\viktor.golubev\source\repos\5Diagonal\Debug\5Diagonal.exe
